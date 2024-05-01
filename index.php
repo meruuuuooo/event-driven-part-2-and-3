@@ -35,6 +35,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/registration.php">Registration</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/postalCode.php">Postal Code</a>
+                    </li>
                 </ul>
                 <form class="d-flex">
                     <input onkeyup="search(this.value)" class="form-control me-2" type="text" placeholder="Search anything here..">
